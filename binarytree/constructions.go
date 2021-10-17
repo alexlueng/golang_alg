@@ -1,4 +1,4 @@
-package main
+package binarytree
 
 // construct from preorder and inorder
 // inorder traversal:
